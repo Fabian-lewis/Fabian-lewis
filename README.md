@@ -40,7 +40,7 @@ def print_motto():
     </div style="display: flex; flex-wrap: wrap; gap: 30px;>
       <img src="https://img.shields.io/badge/C%23-3B3B3B?flat-social&logo=csharp&logoColor=white" width="120">
       <img src="https://img.shields.io/badge/SQL-2C2F33?social&logo=sqlite&logoColor=white" width="120">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fabian_Ndush&theme=dark" width="400">
+      
     
 
 
@@ -52,8 +52,12 @@ def print_motto():
   <div style="display: flex; flex-direction: column; align-items: center; padding-left: 20px; justify-content:space-around; gap:40px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-lewis&layout=compact&theme=dark" width="400">
     <img src="https://github-readme-stats.vercel.app/api?username=Fabian-lewis&show_icons=true&theme=dark" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fabian_Ndush&theme=dark" width="400">
+    
+
   </div>
-  
+ 
+
   ---
 -->
 
