@@ -45,7 +45,7 @@ print(print_motto())
   <a href="https://linkedin.com/in/Fabian-lewis"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:fabian.lewis@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/FabianLewisDev"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-24292e?logo=google-chrome&logoColor=white"></a>
+  <a href="https://fabian-ndush.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24292e?logo=google-chrome&logoColor=white"></a>
 </p>
 
 
