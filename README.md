@@ -10,10 +10,6 @@
   </div>
 </div>
 
-
-
-
-
 ---
 
 ```python
@@ -31,6 +27,10 @@ print(print_motto())
 
 ## GitHub Stats 😅
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-lewis&layout=compact&theme=dark" width="400"> <img src="https://github-readme-stats.vercel.app/api?username=Fabian-lewis&show_icons=true&theme=dark" width="400"></p>
+
+## Badges 📛
+[![Netlify Status](https://api.netlify.com/api/v1/badges/44d7ff07-3963-4a9d-b255-d033875ba9eb/deploy-status)](https://app.netlify.com/sites/fabian-ndush/deploys)
+
 
 
 ## 🎭 Fun Facts About Me  
