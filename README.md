@@ -1,53 +1,147 @@
-# Hello World 😅  
-<div style="display: flex; align-items: center; justify-content: space-around; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin:50px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px;">
 
   <div>
-    <h2>Welcome to my GitHub crib! 🚀</h2>
-    <p>Here, you'll find me cooking up cool code (with ChatGPT 😂), breaking stuff (then fixing it 😅), and pushing pixels to perfection.</p>
-    <p>If you're new to all this, don't worry! 😂  
-    That's what they told me too. But seriously, don't worry.</p>
-  </div>
-</div>
+
+  
+  # 👋🏽 Hey, I’m Fabian Ndung’u
+  
+    💡 A visionary, all-rounded techie passionate about building
+    intelligent systems that make a real impact.
+    
+    I live at the intersection of 
+      **AI, Machine Learning, SoftwareDevelopment**, and 
+      **Embedded Systems*
+    — blending creativity with code to solve real-world problems.
 
 ---
 
-```python
-# Daily Struggles:
-def print_motto():
-    motto = "Code like a poet, debug like a detective. 🕵️‍♂️"
-    message="An error occurred😅"
-    return message
-
-print(print_motto())
-
-```
-## Programming Arena
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Java-EA2D2E?logo=openjdk&logoColor=white" height="25"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="25"> <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" height="25"> <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white" height="25"> </p>
-
-## GitHub Stats 😅
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-lewis&layout=compact&theme=dark" width="400"> <img src="https://github-readme-stats.vercel.app/api?username=Fabian-lewis&show_icons=true&theme=dark" width="400"></p>
-
-## Badges 📛
-[![Netlify Status](https://api.netlify.com/api/v1/badges/44d7ff07-3963-4a9d-b255-d033875ba9eb/deploy-status)](https://app.netlify.com/sites/fabian-ndush/deploys)
-
-
-
-## 🎭 Fun Facts About Me  
-- 🚀 I dream of building my **own software empire** one day.  
-- 🐞 Debugging feels like detective work, but I still hate it sometimes 😅.  
-- ☕ Coding late at night? **Coffee is my best friend.**  
  
+   
+## 👨🏽‍💻 Who I Am
+
+I’m not just learning tech — I’m **living it**.
+
+    From **training models to predict HIV trends**, to 
+    **designing smart water ATMs**, to 
+    **writing clean, scalable software**
+    — I believe technology should *solve*, *simplify*, and *empower*.
+    
+    Currently, I’m sharpening my skills through hands-on projects,
+    and constant curiosity
+    — while laying the foundation for **...**
+    
+---
+
+## 🚀 What I’ve Worked On
+>🧠 Forecasted HIV Data Trends (2000–2023)
+
+    Built ML models to analyze HIV estimates 
+    and visualize country-level trends 
+    using regression and clustering.
 
 
-## 🌎 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/Fabian-lewis"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:fabian.lewis@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/FabianLewisDev"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue"></a>
-  <a href="https://fabian-ndush.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24292e?logo=google-chrome&logoColor=white"></a>
-</p>
+> 📱 Screen Time Pattern Analysis Among Youth
+
+    * You’ll never guess their primary device. 🤯 
+    Applied deep learning to study screen habits and
+    classify health impact patterns.
+
+> 🎓 Scholarship AI – Smart Scholarship Finder
+
+    Created an AI-powered tool that scrapes and
+    recommends scholarships 
+    based on user interests, eligibility, and academic goals.
+
+> 💧 Smart Water ATM System (Ubuntu WaterHub Africa)
+
+    Wrote embedded C code for ATmega2560 
+    to automate water control 
+    with UART commands and sensor logic.
+
+> 🛠️ Python Tools & Automations
+
+    Created scripts for 
+    data cleaning, basic analytics, and process automation
+    — building blocks of smarter systems.
+    
+---
+
+## 🧰 Tech Stack
+
+  > A blend of tools, languages, and platforms I use to build smart systems   — from data to devices.
 
 
-## 👀 Profile Visitors  
-![Profile Views](https://komarev.com/ghpvc/?username=Fabian-lewis&color=blue&style=flat)
+### 💻 Languages
+
+    `Python`        `C++`  `JavaScript`
+    `HTML/CSS`      `SQL`
+
+### 🤖 Machine Learning & Data Science
+    `TensorFlow`     `Keras`     `Scikit-learn`
+    `Pandas`         `NumPy`      `Matplotlib` `Seaborn`  
+    `Streamlit`      `Plotly Dash`
+
+### 🛠️ Software Development
+    `Git`         `GitHub` 
+    `Flask`       `Bootstrap`  
+    `REST APIs`   `VS Code`
+
+### 🔌 Embedded Systems & Electronics
+    `ATmega2560`     `Microchip Studio`     `Proteus`  
+    
+    `UART`     `ADC`     `Interrupts`     `H-Bridge Motor Control`
+
+### 🧪 Tools & Platforms
+    `Jupyter Notebook`     `Google Colab`  
+    `Netlify`              `GitHub Pages`  
+    `BeautifulSoup`         `Requests` (Web Scraping)
+
+> ⚡ *Every tool has a story, and every line of code builds something real.*
+
+
+---
+
+## 📈 The Next Chapter
+
+> Currently, I'm sharpening my craft through hands-on projects, team collaborations, and deep self-learning.  
+I'm laying the foundation for **...**.
+
+---
+
+## 📌 Top Projects
+
+
+> 🔬 **HIV Data Forecast & Clustering Dashboard**  
+
+>     Built an interactive Streamlit dashboard
+>     using regression and KMeans clustering 
+>     to explore HIV trends (2000–2023) across countries.
+
+> 📱 **Youth Screen Time Analysis (India)**  
+
+>     Developed a CNN/MLP-based classifier to 
+>     analyze screen habits and detect guideline adherence 
+>     among youth aged 8–18.
+
+> 🎓 **Scholarship AI – Smart Scholarship Recommender**  
+
+>     Created an intelligent scraper + matcher
+>     that personalizes scholarship suggestions
+>     based on user interests and eligibility.
+
+
+---
+
+## 🔗 Let’s Connect & Collaborate
+
+>
+  <p align="center">
+    <a href="https://linkedin.com/in/Fabian-lewis"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+    <a href="mailto:fabian.lewis@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+    <a href="https://twitter.com/FabianLewisDev"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue"></a>
+    <a href="https://fabian-ndush.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24292e?logo=google-chrome&logoColor=white"></a>
+  </p>
+
+
+⭐ *Thanks for stopping by — let’s build something great together.*
