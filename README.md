@@ -2,29 +2,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px;">
 </div>
 
-# 👋🏽 Hey, I’m Fabian Ndung’u
+# Hi, I'm Fabian Ndung'u 👋
 
-💡 A visionary, all-rounded techie passionate about building intelligent systems that make a real impact.
+**Junior Full-Stack Developer & Data Analyst** passionate about building scalable web applications and insight-driven analytics.
 
-I live at the intersection of  
-**AI, Machine Learning, Software Development**, and  
-**Embedded Systems** — blending creativity with code to solve real-world problems.
+- ⚡ Skilled in Python, JavaScript (React), SQL, Prompt BI
+- 🌱 Currently diving deeper into Data Analysis, Business Intelligence & full-stack development
+- 🛠 Projects: AI-powered Scholarship Platform, Smart Fundraising Dashboard, CEMA Health App
+- 📫 Reach me: fabitolewi@gmail.com | [LinkedIn](your-link) | [Portfolio](your-link)
 
----
 
-## 👨🏽‍💻 Who I Am
-
-I’m not just learning tech — I’m **living it**.
-
-From **training models to predict HIV trends**,  
-to **designing smart water ATMs**,  
-to **writing clean, scalable software** —  
-I believe technology should *solve*, *simplify*, and *empower*.
-
-Currently, I’m sharpening my skills through hands-on projects and deep curiosity,  
-while laying the foundation for **a tech-driven tomorrow**.
-
----
 
 ## 🚀 What I’ve Worked On
 
