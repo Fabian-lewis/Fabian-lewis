@@ -4,92 +4,44 @@
 
 # Hi, I'm Fabian Ndung'u 👋
 
-**Junior Full-Stack Developer & Data Analyst** passionate about building scalable web applications and insight-driven analytics.
+**Junior Full-Stack Developer & Data Analyst** passionate about building scalable web applications and insight-driven analytics. Skilled in Python, JavaScript (React), SQL, and Prompt BI, I create systems and dashboards that solve real-world problems.
 
-- ⚡ Skilled in Python, JavaScript (React), SQL, Prompt BI
-- 🌱 Currently diving deeper into Data Analysis, Business Intelligence & full-stack development
-- 🛠 Projects: AI-powered Scholarship Platform, Smart Fundraising Dashboard, CEMA Health App
-- 📫 Reach me: fabitolewi@gmail.com | [LinkedIn](your-link) | [Portfolio](your-link)
+- ⚡ Experienced in full-stack development, data cleaning, visualization, automation, and API integrations
+- 🌱 Currently diving deeper into Business Intelligence & data-driven solutions
+- 📫 Reach me: fabitolewi@gmail.com | [LinkedIn](https://www.linkedin.com/in/fabian-ndungu/) | [Portfolio]([your-link](https://fabian-ndush.netlify.app/))
 
+## 🚀 Selected Projects
 
+### 🎓 Scholarship AI – Smart Scholarship Finder
+- Designed an AI-powered web platform to match students with scholarships
+- Tensor-based matching improved match accuracy by 72%
+- Reduced scholarship search time from hours to 5 minutes
+- Full-stack development: Flask backend, React frontend, SQL database, REST APIs
 
-## 🚀 What I’ve Worked On
+### 🛠️ Smart Fundraising Dashboard
+- Built a real-time church fundraising dashboard, replacing weekly reports with daily automated reporting
+- Improved reporting efficiency by 86%
+- Enabled leaders to make faster, data-driven decisions
 
-> 🧠 **Forecasted HIV Data Trends (2000–2023)**  
-> Built ML models to analyze HIV estimates and visualize country-level trends using regression and clustering.
-
-> 📱 **Screen Time Pattern Analysis Among Youth**  
-> Deep learning project uncovering device usage patterns and classifying health impacts. *(Spoiler: Smartphones dominate!)*
-
-> 🎓 **Scholarship AI – Smart Scholarship Finder**  
-> AI-powered scraper + matcher that recommends scholarships tailored to user interests and academic goals.
-
-> 💧 **Smart Water ATM System** *(Ubuntu WaterHub Africa)*  
-> Wrote embedded C code for ATmega2560 to automate water control via UART commands, sensors, and real-time logic.
-
-> 🛠️ **Python Tools & Automations**  
-> Built utilities for data cleaning, basic analytics, and automating repetitive tasks — forming the base of smarter systems.
-
----
+### 💧 CEMA Health App
+- Developed a full-stack Flask web app for public health program enrollment and appointments
+- Designed role-based access for admins, doctors, and clients
+- Integrated API-based client profile management
 
 ## 🧰 Tech Stack
 
-> A blend of tools, languages, and platforms I use to build smart systems — from data to devices.
+**Languages:** Python | JavaScript (ES6+) | SQL | HTML/CSS  
+**Web & Full-Stack:** React | Flask | REST APIs | Git/GitHub  
+**Data & BI:** Pandas | NumPy | Prompt BI | Matplotlib | Seaborn | Data Cleaning & EDA  
+**Tools & Platforms:** VS Code | Jupyter Notebook | Netlify | Render
 
-### 💻 Languages  
-`Python` `C++` `JavaScript` `HTML/CSS` `SQL`
-
-### 🤖 Machine Learning & Data Science  
-`TensorFlow` `Keras` `Scikit-learn`  
-`Pandas` `NumPy` `Matplotlib` `Seaborn`  
-`Streamlit` `Plotly Dash`
-
-### 🛠️ Software Development  
-`Git` `GitHub` `Flask` `Bootstrap`  
-`REST APIs` `VS Code`
-
-### 🔌 Embedded Systems & Electronics  
-`ATmega2560` `Microchip Studio` `Proteus`  
-`UART` `ADC` `Interrupts` `H-Bridge Motor Control`
-
-### 🧪 Tools & Platforms  
-`Jupyter Notebook` `Google Colab`  
-`Netlify` `GitHub Pages`  
-`BeautifulSoup` `Requests` (Web Scraping)
-
-> ⚡ *Every tool has a story. Every line of code builds something real.*
-
----
-
-## 📈 The Next Chapter
-
-Currently, I'm building more real-world systems, collaborating with inspiring tech minds, and going all-in on becoming a **tech force for good**.
-
-> The mission?  
-> **Create, automate, and innovate — from microcontrollers to machine learning.**
-
----
-
-## 📌 Top Projects
-
-> 🔬 **HIV Data Forecast & Clustering Dashboard**  
-> Interactive Streamlit dashboard using regression and KMeans clustering to explore HIV trends (2000–2023).
-
-> 📱 **Youth Screen Time Analysis (India)**  
-> CNN/MLP-based classifier to analyze screen time patterns and adherence to digital wellness guidelines.
-
-> 🎓 **Scholarship AI – Smart Scholarship Recommender**  
-> Intelligent web scraper + matcher recommending scholarships based on user eligibility and interests.
-
----
-
-## 🔗 Let’s Connect & Collaborate
+## 🔗 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/Fabian-lewis"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:fabian.lewis@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/FabianLewisDev"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=blue"></a>
+  <a href="mailto:fabitolewi@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
   <a href="https://fabian-ndush.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-24292e?logo=google-chrome&logoColor=white"></a>
 </p>
+
 
 ⭐ *Thanks for stopping by — let’s build something great together.*
