@@ -10,31 +10,6 @@
 - 🌱 Currently diving deeper into Business Intelligence & data-driven solutions
 - 📫 Reach me: fabitolewi@gmail.com | [LinkedIn](https://www.linkedin.com/in/fabian-ndungu/) | [Portfolio]([your-link](https://fabian-ndush.netlify.app/))
 
-## 🚀 Selected Projects
-
-### 🎓 Scholarship AI – Smart Scholarship Finder
-- Designed an AI-powered web platform to match students with scholarships
-- Tensor-based matching improved match accuracy by 72%
-- Reduced scholarship search time from hours to 5 minutes
-- Full-stack development: Flask backend, React frontend, SQL database, REST APIs
-
-### 🛠️ Smart Fundraising Dashboard
-- Built a real-time church fundraising dashboard, replacing weekly reports with daily automated reporting
-- Improved reporting efficiency by 86%
-- Enabled leaders to make faster, data-driven decisions
-
-### 💧 CEMA Health App
-- Developed a full-stack Flask web app for public health program enrollment and appointments
-- Designed role-based access for admins, doctors, and clients
-- Integrated API-based client profile management
-
-## 🧰 Tech Stack
-
-**Languages:** Python | JavaScript (ES6+) | SQL | HTML/CSS  
-**Web & Full-Stack:** React | Flask | REST APIs | Git/GitHub  
-**Data & BI:** Pandas | NumPy | Prompt BI | Matplotlib | Seaborn | Data Cleaning & EDA  
-**Tools & Platforms:** VS Code | Jupyter Notebook | Netlify | Render
-
 ## 🔗 Let’s Connect
 
 <p align="center">
